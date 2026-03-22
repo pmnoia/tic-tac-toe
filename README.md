@@ -41,14 +41,14 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your computer.
    cd react-tic-tac-toe
    ```
 3. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
-### Running the Game
-
-    `bash
-    npm start
-    `
+4. **Running the Game:**
+   ```bash
+   npm start
+   ```
 
 # tic-tac-toe
