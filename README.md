@@ -47,8 +47,6 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your computer.
    ```
 
 4. **Running the Game:**
-   ```bash
    npm start
-   ```
 
 # tic-tac-toe
