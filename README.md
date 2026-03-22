@@ -47,10 +47,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your computer.
 
 ### Running the Game
 
-To start the development server and run the game:
-`bash
+    ```bash
     npm start
-    `
+    ```
 
-# tic-tac-toe
 # tic-tac-toe
